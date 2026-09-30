@@ -12,7 +12,7 @@ The public site is [privacydatacoin.com](https://privacydatacoin.com/).
 | [pdc_ui](https://github.com/PrivacyDataCoin-Project/pdc_ui) | Wallet interface embedded in the PDC desktop application. Default branch: `master`. |
 | [PrivacyDataCoin-Project.github.io](https://github.com/PrivacyDataCoin-Project/PrivacyDataCoin-Project.github.io) | Source of the public website. |
 
-Current software release: [v2.1.0](https://github.com/PrivacyDataCoin-Project/PDC/releases/tag/v2.1.0).
+Current software release: [latest release](https://github.com/PrivacyDataCoin-Project/PDC/releases/latest).
 
 ## Lead developer
 
