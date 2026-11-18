@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Privacy Data Coin">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#05060d"/>
+      <stop offset="55%" stop-color="#07091a"/>
+      <stop offset="100%" stop-color="#10132b"/>
+    </linearGradient>
+    <radialGradient id="g1" cx="85%" cy="10%" r="55%">
+      <stop offset="0%" stop-color="#1e30f3" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#1e30f3" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="g2" cx="8%" cy="80%" r="45%">
+      <stop offset="0%" stop-color="#e21e80" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#e21e80" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1280" height="320" fill="url(#bg)"/>
+  <rect width="1280" height="320" fill="url(#g1)"/>
+  <rect width="1280" height="320" fill="url(#g2)"/>
+  <rect x="0" y="0" width="6" height="320" fill="#3bc7ff"/>
+  <text x="64" y="118" fill="#f4f6ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="700" letter-spacing="-1.5">Privacy Data Coin</text>
+  <text x="64" y="168" fill="#3bc7ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="600">Private by default.</text>
+  <text x="64" y="220" fill="#b7bdd6" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20">Confidential ledger - RandomARQ - Zarcanum - zero premine</text>
+  <text x="64" y="268" fill="#d5daf2" font-family="ui-monospace, Menlo, monospace" font-size="16">privacydatacoin.com</text>
+</svg>
